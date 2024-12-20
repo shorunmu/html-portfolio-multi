@@ -1,0 +1,357 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+* {
+    font-family: "manrope", sans-serif ;
+}
+html, body {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background: rgb(7,21,95);
+    background: linear-gradient(109deg, rgba(7,21,95,1) 1%, rgba(0,0,0,1) 44%);
+}
+
+.row {
+    margin: 0 !important;
+}
+
+/* header css */
+.letters {
+    color: #fff;
+}
+.nav a, .button-links button {
+    color: #fff !important;
+}
+.btn-sign-in {
+    text-decoration: none !important;
+}
+.btn-colos {
+    background-color: #FF4820 !important;
+    padding: 10px 30px !important;
+    font-size: small !important;
+}
+
+/* first-section css */
+
+.h1-small h1{
+    font-size: 47px;
+    font-weight: bold;
+    margin-top: 40px ;
+    padding-bottom: 20px;
+    background: rgb(244,152,103);
+    background: linear-gradient(266deg, rgba(244,152,103,1) 19%, rgba(174,103,250,1) 82%);
+    color: transparent;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.h1-small small {
+    color: #81AFDD;
+    font-size: 16px;
+}
+.img img {
+    width: 120%;
+}
+
+
+
+.img-small img {
+    width: 140px;
+}
+.img-small small {
+    font-size: 10px;
+}
+.input-adj {
+    background-color: #052D56 !important;
+    color: #3D6184;
+    border: none !important;
+}
+.btn-adj{
+    background-color: #FF4820 !important;
+    border-top-left-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;
+}
+
+.images-gsads img {
+    width: 90px;
+    
+}
+
+
+/* Third-section css */
+.third-row {
+    margin-top: 30px !important;
+    background: rgb(15,66,121);
+    background: radial-gradient(circle, rgba(15,66,121,1) 0%, rgba(4,44,84,1) 94%, rgba(27,120,222,1) 100%);
+} 
+hr {
+    width: 25px;
+    height: 3px !important;
+    border: none !important;
+    margin-left: -1px !important;
+    background: rgb(244,152,103);
+    background: linear-gradient(266deg, rgba(244,152,103,1) 19%, rgba(174,103,250,1) 82%);
+}
+.what-is-gpt h5 {
+    color: #fff;
+    font-weight: bold;
+    font-size: 18px;
+
+}
+.opinion {
+    font-size: 14px;
+    padding: 35px 0 60px;
+    color: #81AFDD;
+}
+.possibilities h3 {
+    font-size: 27px;
+    font-weight: bold;
+    background: rgb(244,152,103);
+    background: linear-gradient(266deg, rgba(244,152,103,1) 19%, rgba(174,103,250,1) 82%);
+    color: transparent;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-bottom: 40px;
+}
+.explore {
+    font-size: 15px;
+    color: #FF8A71;
+}
+.Chatbots h5, .Knowledgebase h5, .education h5 {
+    color: #fff;
+    font-weight: bold;
+    font-size: 18px;
+}
+.Chatbots small, .Knowledgebase small , .education small{
+    font-size: 11px;
+    color: #81AFDD;
+}
+
+/* fourth section css */
+
+.fourth-section{
+    margin: 150px 0 40px !important;
+}
+
+.the-future h4 {
+    font-size: 32px;
+    font-weight: bold;
+    padding: 0 0 30px;
+    background: rgb(244,152,103);
+    background: linear-gradient(266deg, rgba(244,152,103,1) 52%, rgba(174,103,250,1) 76%);
+    color: transparent;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.the-future small {
+    font-size: 15px;
+    color: #FF8A71;
+}
+.improving div {
+    padding-bottom: 30px;
+}
+.improving div small {
+    font-size: 14px;
+    color: #fff;
+}
+.improving div hr {
+    margin-bottom: -2px;
+
+}
+.considered div {
+    padding-bottom: 25px;
+}
+.considered div small {
+    color: #81AFDD;
+    font-size: 12.2px;
+}
+
+
+/* fifth section css  */
+
+.fifth-section div img {
+    width: 80%;
+    float: right;
+}
+.request-early {
+    padding-top: 190px;
+}
+.request-the small {
+    color: #71E5FF;
+    font-size: 12px;
+}
+.request-the  h4 {
+    font-size: 23px;
+    font-weight: bold;
+    padding: 10px 0 25px;
+    background: rgb(244,152,103);
+    background: linear-gradient(266deg, rgba(244,152,103,1) 52%, rgba(174,103,250,1) 76%);
+    color: transparent;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+.request-yet p {
+    color: #71E5FF;
+    font-size: 11px;
+    padding-bottom: 10px; 
+}
+.request-yet small {
+    font-size: 12px;
+    color: #FF8A71;
+
+}
+
+/* sixth section css  */
+
+.sixth-section {
+    margin-top: 100px !important;
+}
+
+.request-button{
+    padding: 40px 0;
+    border-radius: 10px;
+    background: rgb(244,152,103);
+    background: linear-gradient(278deg, rgba(244,152,103,1) 0%, rgba(174,103,250,1) 93%);
+}
+.request-register small {
+    color: #0E0E0E;
+    font-size: 10px;
+    font-weight: bold;
+}
+.request-register h6 {
+    font-size: 22px;
+    font-weight: bold;
+}
+.request-button div button {
+    background-color: #000000 !important;
+    padding: 10px 20px !important ;
+    border-radius: 20px !important;
+    border: none;
+}
+
+/* seventh section css  */
+
+.seventh-section div h4 {
+    padding: 60px 0;
+    font-size: 50px;
+    font-weight: bold;
+    background: rgb(244,152,103);
+    background: linear-gradient(266deg, rgba(244,152,103,1) 52%, rgba(174,103,250,1) 76%);
+    color: transparent;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.card {
+    background-color: #042C54 !important;
+    border: none !important;
+}
+.card img {
+    background-color: #000000;
+}
+.card-title {
+    font-size: 12px;
+}
+.card-body small {
+    font-size: 8px;
+}
+.card-h5 {
+    font-size: 15px;
+    padding-bottom: 160px;
+}
+
+
+
+/* footer section css  */
+.footer-section {
+    background: #031B34;
+    padding: 100px 0 30px;
+}
+
+.do-button {
+    padding-bottom:60px;
+}
+.do-button h4 {
+    font-size: 45px;
+    font-weight: bolder;
+    padding-bottom: 30px;
+    background: rgb(244,152,103);
+    background: linear-gradient(266deg, rgba(244,152,103,1) 52%, rgba(174,103,250,1) 76%);
+    color: transparent;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+.do-button button{
+    background-color: #031B34 !important;
+    border: 1px solid #fff !important;
+    border-radius: 0 !important;
+    font-size: 13px;
+    padding: 10px 20px !important;
+}
+.gpt-3-k12 h4 {
+    color: #fff;
+    font-size: 30px;
+    font-weight: bolder;
+} 
+.gpt-3-k12  small {
+    color: #fff;
+    font-size: 8px;
+
+}
+.about-page  {
+    padding-bottom: 50px;
+}
+.about-page h5 {
+    font-size: 12px;
+    color: #fff;
+}
+.about-page ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.about-page ul li a {
+    text-decoration: none !important;
+    font-size: 10px;
+    color: #fff;
+    cursor: pointer;
+}
+.all-rights small {
+    color: #fff;
+    font-size: 12px;
+}
+
+
+/* media query section  */
+
+@media screen and (max-width: 620px) {
+    br {
+        display: none;
+    }
+    .img img {
+        width: 100%;
+    }
+    .fifth-section div img {
+        float: none;
+    }
+    .the-future h4, .possibilities h3,.h1-small h1, .gpt-3-k12 h4, .do-button h4, .seventh-section div h4, .request-the  h4   {
+        font-size: 15px;
+    }
+    .Chatbots small, .Knowledgebase small , .education small, .opinion,.img-small small,.h1-small small,.all-rights small, .card-title {
+        font-size: 8px;
+    }
+    .Chatbots h5, .Knowledgebase h5, .education h5, .explore, .what-is-gpt h5, .card-h5, .request-register h6  {
+        font-size: 10px; 
+    }
+    .do-button button {
+        padding: 5px 10px !important;
+        font-size: 8px;
+    }
+
+
+}
+
+
+
